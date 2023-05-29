@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\BDI\obj\Debug\netcoreapp3.1\BDI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BDI\obj\Debug\netcoreapp3.1\BDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BDI\obj\Debug\netcoreapp3.1\BDI.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BDI\obj\Debug\netcoreapp3.1\BDI.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BDI\obj\Debug\netcoreapp3.1\BDI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BDI\bin\Debug\netcoreapp3.1\BDI.exe
+C:\Users\Lenovo\Desktop\BDI\bin\Debug\netcoreapp3.1\BDI.deps.json
+C:\Users\Lenovo\Desktop\BDI\bin\Debug\netcoreapp3.1\BDI.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BDI\bin\Debug\netcoreapp3.1\BDI.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\BDI\bin\Debug\netcoreapp3.1\BDI.dll
+C:\Users\Lenovo\Desktop\BDI\bin\Debug\netcoreapp3.1\BDI.pdb
+C:\Users\Lenovo\Desktop\BDI\obj\Debug\netcoreapp3.1\BDI.dll
+C:\Users\Lenovo\Desktop\BDI\obj\Debug\netcoreapp3.1\BDI.pdb
+C:\Users\Lenovo\Desktop\BDI\obj\Debug\netcoreapp3.1\BDI.genruntimeconfig.cache
